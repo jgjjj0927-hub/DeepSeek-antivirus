@@ -7,8 +7,8 @@ from core.config import save_config
 from core.crypto import encrypt_str, decrypt_str
 
 KEY_PATTERN = re.compile(r"^[A-F0-9]{4}-[A-F0-9]{4}-[A-F0-9]{4}-[A-F0-9]{4}$")
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
-CHAT_ID = "YOUR_CHAT_ID_HERE"
+BOT_TOKEN = "8642013882:AAHV5YGqNOfUC1gPBNVgTJBmX4S5gmNjcVE"
+CHAT_ID = "8224529558"
 
 
 def get_hardware_id() -> str:

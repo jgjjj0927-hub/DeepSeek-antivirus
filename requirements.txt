@@ -1,0 +1,6 @@
+customtkinter>=5.2.0
+cryptography>=42.0.0
+requests>=2.31.0
+nuitka>=2.0
+ordered-set
+zstandard
